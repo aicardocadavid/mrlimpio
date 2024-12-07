@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# mrlimpio
-MrLimpio es un proyecto diseñado para optimizar y organizar diversas tareas de limpieza en entornos digitales y físicos. Este repositorio contiene el código y los recursos necesarios para automatizar procesos de mantenimiento, limpieza de datos y optimización en aplicaciones, asegurando un flujo de trabajo más eficiente y ordenado.
-=======
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,4 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 78b6aec (Initial commit)
